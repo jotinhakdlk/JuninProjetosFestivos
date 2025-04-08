@@ -16,59 +16,37 @@ header{
     height: 180px;
 }
 
-#fundopagamento{
-    padding-bottom: 50px;
-    border-radius: 50px;
-    margin: 50px 150px 50px;
+.meio{
     background-color: #39898F;
     box-shadow: 10px 15px #24585C;
+    border-radius: 50px;
+    margin: 50px 150px 50px;
+    padding: 25px;
 }
 
-.meio{
-    padding: 35px;
-    text-align: center;
-}
- 
-.texto{
-    color: #FFFF;
-}
-
-span{
-    line-height: 50px;
-    color: #FFFF;
-    font-size: 30px;
-}
-
-select{
-    font-size: 25px;
-}
-
-.grande{
-    height: 30px;
-    width: 550px;
-}
-
-#telefone{
-    height: 30px;
-    width: 250px;
-}
-
-#finalizar{
-    margin: 50px;
-    text-align: center;
-}
-
-#linkfinal{
-    text-decoration: none;
-    padding: 15px 200px 15px;
-    border-radius: 30px;
-    font-size: 30px;
-    color: #FFFF;
+.dentromeio{
     background-color: #24585C;
+    border-radius: 50px;
+    text-align: center;
+    margin: 25px 50px 25px;
+    padding: 25px;
+    color: #FFFF;
 }
 
-#opcoes{
-    padding-left: 50px;
+.texto{
+    font-size: 45px;
+}
+
+#voltar{
+    border-radius: 50px;
+    text-align: center;
+    background-color: #24585C;
+    text-decoration: none;
+    color: #FFFF;
+    font-size: 40px;
+    padding: 10px 50px 10px;
+    display: block;
+    margin: 3% 25% auto;
 }
 
 footer{
