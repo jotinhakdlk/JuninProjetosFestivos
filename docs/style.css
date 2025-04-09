@@ -48,11 +48,6 @@ section{
     box-shadow: 10px 15px #24585C;   
 }
 
-.parteee{
-    margin-left: 200px;
-    margin-right: 180px;
-}
-
 .textoemquadro{
     margin: 100px 130px 50px;
     font-size: 25px ;
@@ -90,7 +85,7 @@ section{
     height: 300px;
 }
 
-.td{
+.textodireita{
     text-align: center;
     font-size: 50px;
 }
@@ -102,12 +97,11 @@ section{
 }
 /*_____________________________________________________________________________________________________________________*/
 /*________________________________BLOCOS PRODUTOS______________________________________________________________________*/
-#produtost{
+#produtostitulo{
     text-align: center;
     margin-top: 100px;
     margin: 50px;
     font-size: 70px;
-
 }
 
 .blocoe{
